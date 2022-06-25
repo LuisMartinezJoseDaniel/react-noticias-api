@@ -19,6 +19,7 @@ const ListadoNoticias = () => {
         variant="h3"
         component={"h2"}
         marginTop={3}
+        marginBottom={ 5 }
       >
         Últimas noticias
       </Typography>
